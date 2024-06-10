@@ -9,6 +9,6 @@ Experience
 Currently, I'm focused on honing my skills in Python, using Visual Studio Code as my preferred development environment. Additionally, I'm always open to new projects and collaborations that can expand my knowledge and contribute to the technology community.
 
 Contact
-GitHub: your_username
-LinkedIn: your_profile
+gmail: carloscandidofpss@gmail.com
+LinkedIn: https://www.linkedin.com/in/carlos-daniel-rodrigues-2aa64b197/
 Feel free to reach out to me to discuss interesting projects or collaboration opportunities. Let's build the future together!
