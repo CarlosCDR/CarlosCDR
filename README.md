@@ -4,8 +4,7 @@ Interests
 Software Development
 Artificial Intelligence and Machine Learning
 Information Security
-Internet of Things (IoT)
-Data Science
+
 Experience
 Currently, I'm focused on honing my skills in Python, using Visual Studio Code as my preferred development environment. Additionally, I'm always open to new projects and collaborations that can expand my knowledge and contribute to the technology community.
 
