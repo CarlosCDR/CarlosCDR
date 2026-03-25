@@ -1,14 +1,44 @@
-Hello👋! My name is Carlos Daniel, I'm 25 years old, and I'm passionate about technology. I'm constantly seeking to learn and grow in the field of technology, exploring everything from programming to new trends and innovations. My goal is to make meaningful contributions to the advancement of technology, always pursuing new challenges and learning opportunities.
+# 👋 Hello, I'm Carlos Daniel
 
-Interests
-Software Development
-Artificial Intelligence and Machine Learning
-Information Security
+💻 Software Developer focused on backend development, REST APIs and AI-powered solutions.
 
-Experience
-Currently, I'm focused on honing my skills in Python, using Visual Studio Code as my preferred development environment. Additionally, I'm always open to new projects and collaborations that can expand my knowledge and contribute to the technology community.
+---
 
-Contact
-gmail: carloscandidofpss@gmail.com
-LinkedIn: https://www.linkedin.com/in/carlos-daniel-rodrigues-2aa64b197/
-Feel free to reach out to me to discuss interesting projects or collaboration opportunities. Let's build the future together!
+## 🚀 Tech Stack
+
+- **Languages:** Python • Java • JavaScript • TypeScript  
+- **Frameworks:** FastAPI • React  
+- **Databases:** PostgreSQL • MySQL • SQLite  
+- **Tools:** Git • GitHub • Docker • VS Code  
+
+---
+
+## 🧠 What I'm working on
+
+- Backend development and scalable APIs  
+- Integration with Artificial Intelligence (AI)  
+- Building real-world applications and automation  
+
+---
+
+## 📌 Featured Projects
+
+- 📱 **Ensina Mente** → Study organization app (Android + Firebase)  
+- 🤖 **AI Resume Analyzer** → Resume analysis using AI  
+- 💰 **Financial Control System** → Personal finance management  
+- ⚙️ **FastAPI REST API** → Backend project with authentication and CRUD  
+
+---
+
+## 📫 Contact
+
+- 📧 Email: carloscandidofpss@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/carlos-daniel-rodrigues-2aa64b197/
+
+---
+
+## 📈 GitHub Stats
+
+![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosCDR&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosCDR&layout=compact&theme=tokyonight)
