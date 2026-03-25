@@ -32,7 +32,7 @@
 
 ## 📫 Contact
 
-- 📧 Email: carloscandidofpss@gmail.com  
+- 📧 Email: carloscandidodev@proton.me
 - 💼 LinkedIn: https://www.linkedin.com/in/carlos-daniel-rodrigues-2aa64b197/
 
 ---
